@@ -16,3 +16,9 @@ D:\Development\Git\Revit\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.csp
 D:\Development\Git\Revit\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.csproj.CoreCompileInputs.cache
 D:\Development\Git\Revit\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.dll
 D:\Development\Git\Revit\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.pdb
+D:\API\_Other\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.csproj.ResolveComReference.cache
+D:\API\_Other\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.csproj.CoreCompileInputs.cache
+D:\API\_Other\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.dll
+D:\API\_Other\RevitCommon\RevitCommon\obj\x64\Release\RevitCommon.pdb
+D:\API\_Other\RevitCommon\RevitCommon\bin\x64\Release\RevitCommon.dll
+D:\API\_Other\RevitCommon\RevitCommon\bin\x64\Release\RevitCommon.pdb
